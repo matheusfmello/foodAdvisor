@@ -1,4 +1,4 @@
-# Food Advisor
+# 🥘 Food Advisor
 
   This repo contains a streamlit application powered by LangChain.
   
